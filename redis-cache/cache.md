@@ -25,6 +25,9 @@
 ![avatar](05.cache-update-policy.jpg)
 
 
+先操作数据库更新再删除比较保,更新一般比较慢,删除操作较快
+![avatar](06.cache-update-policy.jpg)
+
 
 ##### 3.缓存穿透
 
