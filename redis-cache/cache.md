@@ -8,29 +8,36 @@
 
 ##### 2.缓存更新策略
 总结:
+
 ![avatar](01.cache-update-policy.jpg)
 
 
 
 更新策略:
+
 ![avatar](03.cache-update-policy.jpg)
 
 
 
 主动更新策略:
+
 ![avatar](04.cache-update-policy.jpg)
 
 
 主动更新策略需要考虑的问题:
+
 ![avatar](05.cache-update-policy.jpg)
 
 
-先操作数据库更新再删除比较保,更新一般比较慢,删除操作较快
+先操作数据库更新再删除比较靠谱,更新一般比较慢,删除操作较快
+
 ![avatar](06.cache-update-policy.jpg)
 
 
 ##### 3.缓存穿透
+缓存穿透是指客户请求的数据在缓存中和数据库中都不存在,这样缓存永远不会生效,这些请求都会打到数据库的现象
 
+![avatar](07.cache-penetration.jpg)
 
 ##### 4.缓存雪崩
 
