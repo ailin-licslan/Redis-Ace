@@ -25,3 +25,11 @@ redis全局唯一ID:
 超卖问题锁总结
 ![avatar](05.optimistic-lock-issue.jpg)
 
+
+秒杀优惠券一人一单业务下
+![avatar](06.one-people-a-order.jpg)
+
+
+集群下面的并发安全问题
+![avatar](07.thread-issue-in-cluster.jpg)
+
