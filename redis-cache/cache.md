@@ -7,7 +7,23 @@
 `成本:数据一致性成本,代码维护成本,运维成本`
 
 ##### 2.缓存更新策略
-![avatar](01.cache-update-policy.png)
+总结:
+![avatar](01.cache-update-policy.jpg)
+
+
+
+更新策略:
+![avatar](03.cache-update-policy.jpg)
+
+
+
+主动更新策略:
+![avatar](04.cache-update-policy.jpg)
+
+
+主动更新策略需要考虑的问题:
+![avatar](05.cache-update-policy.jpg)
+
 
 
 ##### 3.缓存穿透
