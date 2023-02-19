@@ -54,8 +54,13 @@
 ### 6.缓存击穿
 缓存击穿问题也叫热点key问题,就是一个被高并发访问且缓存重建业务比较复杂的key突然失效了,无数的请求访问会在瞬间给数据库带来巨大的冲击
 
+缓存击穿
 ![avatar](09.cache-breakdown.jpg)
+
+解决方案
 ![avatar](10.cache-breakdown.jpg)
+
+方案优缺点
 ![avatar](11.cache-breakdown.jpg)
 
 
