@@ -7,6 +7,7 @@
 成本:数据一致性成本 代码维护成本 运维成本
 
 ##### 2.缓存更新策略
+![avatar](01.cache-update-policy.png)
 
 
 ##### 3.缓存穿透
@@ -19,3 +20,5 @@
 
 
 ##### 6.添加redis缓存
+
+![avatar](02.cache-redis-idea.jpg)
