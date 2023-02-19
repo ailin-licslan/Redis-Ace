@@ -33,3 +33,13 @@ redis全局唯一ID:
 集群下面的并发安全问题
 ![avatar](07.thread-issue-in-cluster.jpg)
 
+
+分布式锁
+![avatar](08.distributed-lock.jpg)
+
+![avatar](09.distributed-lock.jpg)
+
+分布式锁实现方案
+![avatar](10.distributed-lock-methods.jpg)
+
+
