@@ -21,3 +21,7 @@ redis全局唯一ID:
 乐观锁CAS
 ![avatar](04.optimistic-lock-cas.jpg)
 
+
+超卖问题锁总结
+![avatar](05.optimistic-lock-issue.jpg)
+
