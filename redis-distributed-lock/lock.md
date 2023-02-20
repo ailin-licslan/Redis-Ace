@@ -49,6 +49,11 @@ Redisson 解决锁在集群中同步的一致性问题
 ![avatar](10.multilock.jpg)
 
 
+distributed lock summarize
+
+![avatar](11.distributed-lock-summarize.jpg)
+
+
 
 
 
