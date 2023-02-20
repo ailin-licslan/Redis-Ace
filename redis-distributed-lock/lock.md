@@ -44,7 +44,7 @@ Redisson 解决锁在集群中同步的一致性问题
 ![avatar](09.lock-consistency.jpg)
 
 
-解决锁在集群中同步的一致性问题 multilock
+解决锁在集群中同步的一致性问题 multilock 联锁
 
 ![avatar](10.multilock.jpg)
 
