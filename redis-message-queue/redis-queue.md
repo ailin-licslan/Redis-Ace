@@ -50,4 +50,7 @@ redis queue stream
 
 stream redis 总结
 ![avatar](15.redis-queue-stream.jpg)
+![avatar](16.redis-queue-stream.jpg)
+
+![avatar](17.redis-queue-stream.jpg)
 
